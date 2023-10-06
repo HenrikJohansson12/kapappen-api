@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X6nT0aqj7VA42sjyPcfkUlcM6K6cYrMiDXZhoS9IBNV37rMqlxHBFbaEU4JAHeUFNhV7gdn3vqPFmSy9fFceZQ==",
+  "dgSpecHash": "LAqcqOnpy1a23dESGvE52itZdhNxgaBgt/6kbQ9lduqW+QVjeaQwH07sxaFS/ugD9nNPHqNTxWYEwXWE0U4OQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\khenr\\Desktop\\Kapappen-api\\Kapappen-api.csproj",
+  "projectFilePath": "c:\\Users\\khenr\\Desktop\\Ny kopia\\kapappen-api\\Kapappen-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\khenr\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\khenr\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",

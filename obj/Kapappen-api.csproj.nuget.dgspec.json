@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\khenr\\Desktop\\Kapappen-api\\Kapappen-api.csproj": {}
+    "c:\\Users\\khenr\\Desktop\\Ny kopia\\kapappen-api\\Kapappen-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\khenr\\Desktop\\Kapappen-api\\Kapappen-api.csproj": {
+    "c:\\Users\\khenr\\Desktop\\Ny kopia\\kapappen-api\\Kapappen-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\khenr\\Desktop\\Kapappen-api\\Kapappen-api.csproj",
+        "projectUniqueName": "c:\\Users\\khenr\\Desktop\\Ny kopia\\kapappen-api\\Kapappen-api.csproj",
         "projectName": "Kapappen-api",
-        "projectPath": "C:\\Users\\khenr\\Desktop\\Kapappen-api\\Kapappen-api.csproj",
+        "projectPath": "c:\\Users\\khenr\\Desktop\\Ny kopia\\kapappen-api\\Kapappen-api.csproj",
         "packagesPath": "C:\\Users\\khenr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\khenr\\Desktop\\Kapappen-api\\obj\\",
+        "outputPath": "c:\\Users\\khenr\\Desktop\\Ny kopia\\kapappen-api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\khenr\\AppData\\Roaming\\NuGet\\NuGet.Config"
